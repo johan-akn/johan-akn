@@ -1,7 +1,7 @@
 <h1 align="left">Hi there, I'm Johan 👋</h1>
 
 <p align="left">
-  Systems Development Technician (SENAI and currently studying Information Systems at UFSC Florianópolis.
+  Systems Development Technician (SENAI) and currently studying Information Systems at UFSC Florianópolis.
 </p>
 
 <h2 align="left">Skills</h2>
